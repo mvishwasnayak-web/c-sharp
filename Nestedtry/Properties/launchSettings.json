@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Nestedtry": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
