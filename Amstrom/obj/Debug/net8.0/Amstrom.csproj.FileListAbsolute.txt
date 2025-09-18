@@ -1,0 +1,14 @@
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\bin\Debug\net8.0\Amstrom.exe
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\bin\Debug\net8.0\Amstrom.deps.json
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\bin\Debug\net8.0\Amstrom.runtimeconfig.json
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\bin\Debug\net8.0\Amstrom.dll
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\bin\Debug\net8.0\Amstrom.pdb
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.AssemblyInfoInputs.cache
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.AssemblyInfo.cs
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.csproj.CoreCompileInputs.cache
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.dll
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\refint\Amstrom.dll
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.pdb
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\Amstrom.genruntimeconfig.cache
+C:\Users\BCA 39\Desktop\vishC#\Amstrom\obj\Debug\net8.0\ref\Amstrom.dll
